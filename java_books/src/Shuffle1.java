@@ -13,7 +13,7 @@ public class Shuffle1 {
             x = x - 1;
             System.out.print("-");
             if (x == 1) {
-                System.out.print("d");
+                System.out.print("dd");
                 x = x - 1;
             }
 
